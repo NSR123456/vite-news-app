@@ -1,0 +1,7 @@
+.news {
+    margin-top: 80px; /* Adjust this based on your navbar height */
+}
+
+body {
+    padding-top: 80px; /* Makes space for the navbar */
+}
